@@ -12,3 +12,5 @@ puts st.insert( 0,"cdefgh")
 puts rahu.strip
 puts "H".to_i
 puts st.clear
+puts "My name is Anthony"
+puts "Hi i am Sublime"
